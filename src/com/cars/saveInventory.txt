@@ -1,0 +1,10 @@
+001,Subaru,42400,Crosstrek 2.0i,Subaru,fasdfasdf,23141,true,125,20827
+002,Mazda,21312,CX-3,Mazda,fasdfasdf,21435,true,122,19292
+003,Tesla,21000,Model S,Tesla,fasdfasdf,96700,true,65,87030
+004,Nissan,0,Versa S,Nissan,fasdfasdf,15005,false,2,13505
+005,Subaru,0,Impreza 2.0i,Subaru,fasdfasdf,19612,false,23,17651
+006,Jeep,32131,Wrangler,Jeep,fasdfasdf,40230,true,55,36207
+007,Mazda,2140,CX-5,Mazda,fasdfasdf,25395,true,121,22856
+008,Tesla,0,Cybertruck,Tesla,fasdfasdf,67000,false,23,60300
+009,Nissan,500,Sentra S,Nissan,fasdfasdf,19095,true,45,17186
+010,Subaru,32410,Forester 2.0XT,Subaru,fasdfasdf,16281,true,143,14653
